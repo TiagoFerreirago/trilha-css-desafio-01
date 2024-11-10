@@ -249,7 +249,7 @@ section {
 
     width: 310px;
     height: 44px;
-    margin: 59px 0px 0px 680px;
+    margin: 59px 0px 0px 540px;
     filter: drop-shadow(10px 10px 10px rgba(48, 177, 233, 0.5));
   }
 
@@ -263,7 +263,7 @@ section {
     font-size: 19px;
     line-height: 18px;
     white-space: nowrap;
-    margin: auto 715px;
+    margin: auto 570px;
   }
 
   footer a{
